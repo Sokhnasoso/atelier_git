@@ -1,1 +1,2 @@
 Une peu de text
+Amender un commit me permet de modifier le DERNIER commit en modifier un fichier ou le message du commit
